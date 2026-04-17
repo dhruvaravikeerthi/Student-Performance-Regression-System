@@ -76,12 +76,13 @@ This project demonstrates how machine learning can be transformed into an intera
 ## 🚀 Future Improvements
 
 - Add multiple regression models (Ridge, Lasso, Random Forest)  
-- Feature importance visualization  
-- Improve dataset validation  
+ - Improve dataset validation  
 - Enhance UI/UX  
 - Export predictions  
 
----
+## 💡 What I Learned
+While building this project, I was able to apply my knowledge in Machine Learning practically and explored how machine learning models learn patterns from data and how those patterns can be translated into meaningful real-world insights.
+I also focused on making the system interactive and understandable, rather than just building a static model.
 
 ## 👨‍💻 Author
 
